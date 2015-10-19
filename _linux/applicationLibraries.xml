@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.5.0+ virtualenv at ~/python3.5 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.7" type="Scala">
       <properties>
         <compiler-classpath>
