@@ -1,12 +1,6 @@
 <scheme name="light" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-07-20T09:38:11</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-07-20T09:38:33</property>
-    <property name="originalScheme">Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
 </scheme>
