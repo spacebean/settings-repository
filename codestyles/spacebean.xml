@@ -1,8 +1,0 @@
-<code_scheme name="spacebean">
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
-  <ScalaCodeStyleSettings>
-    <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
-  </ScalaCodeStyleSettings>
-</code_scheme>
