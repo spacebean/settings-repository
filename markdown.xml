@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body { &#10;    -webkit-font-smoothing: antialiased;&#10;    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);&#10;    background: url('./images/background.png');&#10;    text-align: left;&#10;    margin: auto;&#10;}" />
+    <MarkdownCssSettings TextEnabled="true" StylesheetText="body { &#10;    -webkit-font-smoothing: antialiased;&#10;    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);&#10;    background: url('./images/background.png');&#10;    text-align: left;&#10;    margin: auto;&#10;}" />
     <MarkdownPreviewSettings UseGrayscaleRendering="true" />
   </component>
 </application>
