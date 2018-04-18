@@ -1,9 +1,10 @@
 <scheme name="light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-04-04T16:03:14</property>
+    <property name="modified">2018-04-18T15:40:37</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -11,6 +12,9 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
+    <option name="TEXT">
       <value />
     </option>
   </attributes>

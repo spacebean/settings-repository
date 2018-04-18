@@ -4,14 +4,20 @@
     <property name="created">2018-04-03T09:15:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-03T09:25:28</property>
+    <property name="modified">2018-04-18T15:40:36</property>
     <property name="originalScheme">Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
 </scheme>
