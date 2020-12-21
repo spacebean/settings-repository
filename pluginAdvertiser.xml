@@ -117,6 +117,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cabal">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cfignore">
           <value>
             <plugin>
@@ -438,6 +446,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
             </plugin>
           </value>
         </entry>
@@ -1341,6 +1357,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.x">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.xbm">
           <value>
             <plugin>
@@ -1638,6 +1662,11 @@
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                    </value>
+                  </entry>
+                  <entry key="HaskellStackConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack" pluginName="IntelliJ-Haskell" pluginId="intellij.haskell" />
                     </value>
                   </entry>
                   <entry key="JUnit">
